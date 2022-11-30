@@ -1,2 +1,2 @@
 # machine_learning
-templates, frameworks and tooling for machine learning
+Templates, frameworks and tooling for machine learning
